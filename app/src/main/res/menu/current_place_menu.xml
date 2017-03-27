@@ -16,4 +16,5 @@
         android:id="@+id/option_get_place"
         android:title="@string/option_get_place"
         app:showAsAction="always"/>
+
 </menu>
